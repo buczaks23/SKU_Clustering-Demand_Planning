@@ -26,7 +26,7 @@ These represent the "low-hanging fruit" where improving forecasts should be easi
     - <= 0.2 stable
     - 0.21-0.3 moderately stable
     - 0.31-0.5 high end of stable/becoming unstable
-    - >0.5 unstable 
+    - >= 0.51 unstable 
 
 **Additional Metrics**
 - Average demand
